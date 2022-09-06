@@ -1,0 +1,38 @@
+PROJETO INTEGRADOR I
+
+MATERIAIS NECESSÁRIOS
+
+-> ESP32;
+-> Buzzer;
+-> Leitor de RFID;
+-> Etiquetas de RFID;
+-> Motor;
+
+HARDWARE
+
+-> Conectar o módulo RFID a placa de desenvolvimento;
+-> Conectar o motor, buzzer e demais peças a placa;
+-> Fazer a esteira;
+
+SOFTWARE
+
+Aplicação Back-End (Node.js, Express.js, Socket.io);
+
+-> Criar rota para cadastro de produto;
+-> Criar rota para mostrar os produtos cadastrados;
+-> Criar conexão socket para mostrar os produtos lidos em tempo real;
+
+Aplicação Front-End (React.js);
+
+-> Criar tela de cadastro de produto;
+-> Criar tela de separação de produto;
+
+Placa de Desenvolvimento (C++);
+
+-> Fazer a esteira ligar e desligar ao clicar em um botão na aplicação;
+-> Fazer o módulo de RFID ler o código cadastrado na etiqueta e enviar os dados para o servidor;		
+-> Fazer o buzzer apitar toda vez que um produto é lido; 
+
+ADICIONAIS (caso sobre tempo)
+
+-> Criar mecanismo de separação dos produtos;
