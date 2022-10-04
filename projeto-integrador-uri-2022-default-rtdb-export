@@ -1,0 +1,10 @@
+{
+  "morador": {
+    "apartamento": 101,
+    "cartaoid": 1,
+    "contato": 54991199119,
+    "cpf": "111.222.333-44",
+    "nascimento": "10/04/1999",
+    "nome": "Teste"
+  }
+}
